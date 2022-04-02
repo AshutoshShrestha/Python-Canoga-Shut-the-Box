@@ -1,0 +1,60 @@
+Human was made to roll dices loaded from a file.
+Human used loaded dices: 3 and 4
+Human uncovered [1, 2, 4]
+Human was made to roll dices loaded from a file.
+Human used loaded dices: 5 and 6
+Human uncovered [5, 6]
+Human won the round.
+Switching to game screen
+Human was given the advantage. The square 9 will be covered beforehand.
+Human was made to roll dices loaded from a file.
+Human used loaded dices: [1, 3]
+Computer was made to roll dices loaded from a file.
+Computer used loaded dices: [4, 4]
+Computer goes first
+Computer was made to roll dices loaded from a file.
+Computer used loaded dices: 3 and 6
+Because there are no available moves to uncover, Computer decided to cover ( 9 ) because covering the largest possible values maximizes winning score. 
+Computer rolled 5 and 1
+Because there are no available moves to uncover, Computer decided to cover ( 6 ) because covering the largest possible values maximizes winning score. 
+Computer rolled 2 and 4
+Because there are no available moves to uncover, Computer decided to cover ( 1 5 ) because covering the largest possible values maximizes winning score. 
+Computer rolled 4 and 5
+Because there are no available moves to uncover, Computer decided to cover ( 2 7 ) because covering the largest possible values maximizes winning score. 
+Computer rolled 6 and 5
+Because there are no available moves to uncover, Computer decided to cover ( 11 ) because covering the largest possible values maximizes winning score. 
+Computer rolled 5 and 3
+Because there are no available moves to uncover, Computer decided to cover ( 8 ) because there is no other options for covering.
+Computer rolled 1 and 4
+Turns changed
+Human rolled 2 and 2
+Human covered [4]
+Human rolled 3 and 2
+Human uncovered [5]
+Human rolled 4 and 4
+Human covered [1, 7]
+Human rolled 3 and 4
+Human covered [2, 5]
+Human rolled 4 and 5
+Human covered [3, 6]
+Human rolled 1 and 2
+Human uncovered [1, 2]
+Human rolled 1 and 1
+
+Turns changed
+Computer rolled 5 and 6
+In order to maximize covered squares, Computer decided to cover ( 1 10 ) because covering the largest possible values maximizes winning score. 
+Computer rolled 3 and 5
+In order to maximize covered squares, Computer decided to cover ( 3 5 ) because there is no other options for covering.
+Computer rolled 6 and 1
+Because there are no available moves to cover, Computer decided to uncover ( 7 ) because uncovering the largest possible values maximizes winning score. 
+Computer rolled 5 and 2
+Because there are no available moves to cover, Computer decided to uncover ( 1 6 ) because uncovering the largest possible values maximizes winning score. 
+Computer rolled 1 and 3
+In order to maximize covered squares, Computer decided to cover ( 4 ) because there is no other options for covering.
+Computer rolled 2 and 4
+Because there are no available moves to cover, Computer decided to uncover ( 2 4 ) because there is no other options for uncovering.
+Computer rolled 2 and 6
+Because there are no available moves to cover, Computer decided to uncover ( 3 5 ) because there is no other options for uncovering.
+Computer rolled 5 and 6
+Log updated

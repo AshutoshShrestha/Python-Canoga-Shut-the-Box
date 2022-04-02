@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: singletons
+Version: 0.2.5
+Summary: Singleton metaclasses and singleton factories
+License: MIT
+Author: James Roeder
+Author-email: jmaroeder@gmail.com
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Provides-Extra: eventlet
+Provides-Extra: gevent
+Requires-Dist: eventlet (>=0.25.1,<0.26.0); extra == "eventlet"
+Requires-Dist: gevent (>=1.4,<2.0); extra == "gevent"
