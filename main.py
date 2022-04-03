@@ -497,25 +497,12 @@ Builder.load_string('''
                 scroll_type: ['bars']
                 size_hint_y: None
                 size: self.size
-        # BoxLayout:
-        #     id: saved_games_box
-        #     orientation: "vertical"
-        #     padding: 40
-        #     spacing: 20
-        #     size_hint: (1, 0.8)
         Button:
             id: load_btn
             text: "Load"
             disabled: True if (len(saved_games_box.children) <= 1) else False
             on_press: root.load_game()
             size_hint: (1, 0.1)
-
-
-<QuitPopup>:
-    size_hint: 0.4, 0.4
-    auto_dismiss: False
-
-    title: "Did you save your game?"
     
 ''')
 
